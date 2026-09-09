@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/hono-4.13.7",
+    "dependabot/npm_and_yarn/ip-address-10.7.2",
+    "dependabot/npm_and_yarn/js-yaml-4.3.2",
+    "dependabot/npm_and_yarn/maplibre-gl-6.4.1",
+    "dependabot/npm_and_yarn/moment-2.31.0",
+    "dependabot/npm_and_yarn/multi-89f32e2167",
+    "dependabot/npm_and_yarn/undici-7.30.0",
+    "main"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/hono-4.13.7": "main",
+    "dependabot/npm_and_yarn/ip-address-10.7.2": "main",
+    "dependabot/npm_and_yarn/js-yaml-4.3.2": "main",
+    "dependabot/npm_and_yarn/maplibre-gl-6.4.1": "main",
+    "dependabot/npm_and_yarn/moment-2.31.0": "main",
+    "dependabot/npm_and_yarn/multi-89f32e2167": "main",
+    "dependabot/npm_and_yarn/undici-7.30.0": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/hono-4.13.7",
+    "dependabot/npm_and_yarn/ip-address-10.7.2",
+    "dependabot/npm_and_yarn/js-yaml-4.3.2",
+    "dependabot/npm_and_yarn/maplibre-gl-6.4.1",
+    "dependabot/npm_and_yarn/moment-2.31.0",
+    "dependabot/npm_and_yarn/multi-89f32e2167",
+    "dependabot/npm_and_yarn/undici-7.30.0"
+  ]
+}
